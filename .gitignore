@@ -1,0 +1,12 @@
+.ds_store
+*.o
+*.a
+Makefile
+Testing
+CMakeCache.txt
+cmake_install.cmake
+install_manifest.text
+compile_commands.json
+CMakeFiles
+CMakeScripts 
+alohaware
