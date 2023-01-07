@@ -1,4 +1,7 @@
-# Alohaware
+<h1 align="center">Alohaware</h1>  
+<p align="center">  
+ <b> Powerful, lightweight, and user-friendly Pokemon fangame development kit made from the groundup in C++ and Vulkan.</b>  
+</p> 
 
 ## Compiling
 First generate MakeFiles by using
