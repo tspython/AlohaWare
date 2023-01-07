@@ -1,4 +1,4 @@
-<h1 align="center">Alohaware</h1>  
+<h1 align="center">AlohaWare</h1>  
 <p align="center">  
  <b> Powerful, lightweight, and user-friendly Pokemon fangame development kit made from the groundup in C++ and Vulkan.</b>  
 </p> 
