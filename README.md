@@ -1,6 +1,6 @@
 <h1 align="center">AlohaWare</h1>  
 <p align="center">  
- <b> Powerful, lightweight, and user-friendly Pokemon fangame development kit made from the groundup in C++ and Vulkan.</b>  
+ <b> Powerful, lightweight, user-friendly, and most importantly Open Source RPG Maker built from the groundup in C++ and Vulkan.</b>  
 </p> 
 
 ## Compiling
@@ -19,7 +19,7 @@ make
 ## Architecture
 TBD.
 ## Contributing
-* We are using 2-space soft tabs for indenting.
+* We are using 4-space soft tabs for indenting.
 * To add to a System: 
   * Use the `aloha` namespace
   * Add the files to the System's respective `CMakeLists.txt`
